@@ -1,0 +1,11 @@
+/** {
+  outline: 1px solid rgb(255, 53, 53) !important;
+  background: rgb(0 100 0 / 0.1);
+}*/
+
+body {
+  margin: 0;
+  font-family:'Courier New', 'Courier', 'monospace';
+  padding: 0;
+  background: linear-gradient(to right, rgb(4, 0, 255), rgb(255, 187, 0));
+}
